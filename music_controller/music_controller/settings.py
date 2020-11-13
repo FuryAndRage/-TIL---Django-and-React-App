@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 'music_controler.api.apps.ApiConfig',
     'music_controller.api',
+    'music_controller.frontend',
     'rest_framework',
 ]
 
